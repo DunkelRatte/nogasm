@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name nogasm)(type KiCad)(uri "$(KIPRJMOD)/nogasm.pretty")(options "")(descr ""))
+  (lib (name kicad_teensy)(type Github)(uri https://github.com/DunkelRatte/kicad_teensy.pretty)(options "")(descr ""))
+)
