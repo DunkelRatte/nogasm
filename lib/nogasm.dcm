@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BS107
+D 200V Vds, N-Channel MOSFET, TO-92
+K N-Channel MOSFET
+F http://www.vishay.com/docs/70215/70215.pdf
+$ENDCMP
+#
+$CMP BUK92150-55A
+D N-channel TrenchMOS logic level FET
+K N-Channel MOSFET
+F http://assets.nexperia.com/documents/data-sheet/BUK92150-55A.pdf
+$ENDCMP
+#
 #End Doc Library
