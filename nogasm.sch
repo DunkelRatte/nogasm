@@ -104,7 +104,7 @@ $EndComp
 Text Label 1400 3150 0    60   ~ 0
 5VIO
 Text Label 5100 3550 2    60   ~ 0
-V_press
+V_PRES
 Text Label 1550 2150 0    60   ~ 0
 ENC_Bl
 Text Label 1550 2250 0    60   ~ 0
@@ -415,7 +415,7 @@ F 3 "" H 9800 3050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 11500 3450 0    60   ~ 0
-VPRES
+V_PRES
 $Comp
 L +3.3V #PWR016
 U 1 1 5918C10D
