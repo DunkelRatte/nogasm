@@ -6,6 +6,8 @@ This is a fork of the [original nogasm project](https://github.com/nogasm/nogasm
 
 ### Board
 
+![Board render](img/board.png)
+
 Count | Name | Digikey link
 -----|--------|-------------
 1 | Teensy LC | https://www.digikey.com/short/31cn1n
