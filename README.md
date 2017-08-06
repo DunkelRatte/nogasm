@@ -31,10 +31,12 @@ Count | Name | Digikey link
 1 | Barreljack socket 1.3mm/3.5mm | https://www.digikey.com/short/31c0mt
 1 | Barreljack plug 1.3mm/3.5mm | https://www.digikey.com/short/31c0mj
 1 | Barreljack socket 2.5mm/5.5mm | https://www.digikey.com/short/31c0mh
-1 | Barreljack plug 2.5mm/5.5mm | https://www.digikey.com/short/31c0mr
 
 #### Aisler Kit
 [You can order PCBs and/or all parts as a single kit on Aisler](https://aisler.net/DunkelRatte/nogasm/board)
+
+#### Power
+You'll need 12V/1.5A DC power supply with a 2.5mm/5.5mm barreljack plug (or fitting to above bigger socket).
 
 ### Vibrator
 The case is designed for a RS-555 motor. [Aliexpress lists several versions](https://www.aliexpress.com/wholesale?SearchText=rs555).
