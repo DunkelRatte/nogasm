@@ -3,5 +3,6 @@
 *-bak
 *.blend1
 *.bck
-
 *.net
+*-cache
+rescue-backup/*
