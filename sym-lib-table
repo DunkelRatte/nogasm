@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name nogasm)(type Legacy)(uri ${KIPRJMOD}/lib/nogasm.lib)(options "")(descr ""))
+  (lib (name rotenc)(type Legacy)(uri ${KIPRJMOD}/lib/rotenc.lib)(options "")(descr ""))
+  (lib (name ws2812)(type Legacy)(uri ${KIPRJMOD}/lib/ws2812.lib)(options "")(descr ""))
+  (lib (name teensy)(type Legacy)(uri ${KIPRJMOD}/teensy_library/teensy.lib)(options "")(descr ""))
+)
